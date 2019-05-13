@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.redhat.xpaas.openshift.OpenshiftUtil.findNamedPod(name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
