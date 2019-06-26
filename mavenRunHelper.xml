@@ -58,6 +58,9 @@
             <Goal>
               <option name="commandLine" value="clean compile exec:java -Dexec.mainClass=com.mycroftmind.dg.cc.devsimulator.standalone.Main" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean generate-sources spring-boot:run -Dlog.level=debug" />
+            </Goal>
           </list>
         </option>
       </Goals>
