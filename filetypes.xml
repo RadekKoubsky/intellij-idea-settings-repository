@@ -23,6 +23,7 @@
       <mapping pattern="sdsd" type="PLAIN_TEXT" />
       <mapping pattern="dsad" type="PLAIN_TEXT" />
       <mapping pattern="change_version" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="iperf3" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
       <mapping ext="hex" type="PLAIN_TEXT" />
