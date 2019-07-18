@@ -28,6 +28,7 @@
       <mapping ext="marker" type="PLAIN_TEXT" />
       <mapping ext="hex" type="PLAIN_TEXT" />
       <mapping ext="on" type="PLAIN_TEXT" />
+      <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="flowping" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping pattern="V2__identity_verification_properties_and_tags" type="SQL" />
