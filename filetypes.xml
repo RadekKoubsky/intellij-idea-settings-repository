@@ -32,6 +32,7 @@
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="flowping" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
+      <mapping ext="ser&quot;" type="RbenvGemsets" />
       <mapping pattern="V2__identity_verification_properties_and_tags" type="SQL" />
     </extensionMap>
   </component>
