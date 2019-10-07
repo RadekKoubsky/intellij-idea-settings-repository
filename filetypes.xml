@@ -4,10 +4,10 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="builddiscarder" type="Groovy" />
-      <mapping pattern="dsad" type="PLAIN_TEXT" />
       <mapping pattern="sdsd" type="PLAIN_TEXT" />
-      <mapping pattern="actionResponseHLSChallenge" type="PLAIN_TEXT" />
+      <mapping pattern="dsad" type="PLAIN_TEXT" />
       <mapping pattern="aarqHLSGMac" type="PLAIN_TEXT" />
+      <mapping pattern="actionResponseHLSChallenge" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="rheldocker_local_priv_key" type="PLAIN_TEXT" />
       <mapping pattern="change_version" type="PLAIN_TEXT" />
