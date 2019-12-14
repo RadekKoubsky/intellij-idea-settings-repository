@@ -5,5 +5,8 @@
         <added pattern="com.redhat.xpaas.openshift.OpenshiftUtil.findNamedPod(name)" />
       </blacklist>
     </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+    </disabledLanguages>
   </component>
 </application>
