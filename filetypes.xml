@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="springboot" type="PLAIN_TEXT" />
       <mapping ext="rkoubsky_debug_log_test" type="PLAIN_TEXT" />
       <mapping ext="vcd" type="PLAIN_TEXT" />
       <mapping ext="nsxt" type="PLAIN_TEXT" />
