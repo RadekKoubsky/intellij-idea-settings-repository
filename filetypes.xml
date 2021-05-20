@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="set_rk_profile" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile_deploy_jar" type="AUTO_DETECTED" />
+      <mapping pattern="Jenkinsfile_provider_ci" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="springboot" type="PLAIN_TEXT" />
